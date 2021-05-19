@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, Welcome to my Profile 👋
 
-<!--
-**umasii/umasii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is William. I'm a 17 year old developer based in NYC/CHI.
 
-Here are some ideas to get you started:
+I specialize in automation technologies, reverse engineering, and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I use
+- Go
+- TypeScript, Node, and Javscript
+- Python
+- Rust
+- MongoDB
+- Redis
+
+## What I'm currently working on
+- My bot, Cicada AIO
+- Reverse engineering common client side javascript protections, such as Akamai, PerimeterX, and Shape Security
+- Go networking and APIs
+
+You can contact me at my Twitter, Email, or Discord (umasi#3301)
