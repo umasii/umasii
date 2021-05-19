@@ -14,7 +14,7 @@ I specialize in automation technologies, systems design, reverse engineering, an
 
 ## What I'm currently working on
 - My bot, Cicada AIO
-- Reverse engineering common client side JavaScript protections, such as Akamai, PerimeterX, and Shape Security
+- Reverse engineering client side JavaScript protections
 - Go networking and APIs
 
 You can contact me at my Twitter, Email, or Discord (umasi#3301)
