@@ -11,6 +11,7 @@ I specialize in automation technologies, systems design, reverse engineering, an
 - Rust
 - MongoDB
 - Redis
+- Docker
 
 ## What I'm currently working on
 - My bot, Cicada AIO
