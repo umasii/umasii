@@ -2,7 +2,7 @@
 
 My name is William. I'm a 17 year old developer based in NYC/CHI.
 
-I specialize in automation technologies, reverse engineering, and networking.
+I specialize in automation technologies, systems design, reverse engineering, and networking.
 
 ## Technologies I use
 - Go
