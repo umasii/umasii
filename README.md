@@ -4,6 +4,8 @@ My name is William. I'm a 17 year old developer based in NYC/CHI.
 
 I specialize in automation technologies, systems design, reverse engineering, and networking.
 
+Unfortunately, I don't get around to open sourcing a huge amount so ignore my popular repositories.
+
 ## Technologies I use
 - Go
 - TypeScript, Node, and JavaScript
