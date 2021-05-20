@@ -7,8 +7,10 @@ I specialize in automation technologies, systems design, reverse engineering, an
 ## Technologies I use
 - Go
 - TypeScript, Node, and JavaScript
+- Deno
 - Python
 - Rust
+- Zsh/Bash
 - MongoDB
 - Redis
 - Docker
