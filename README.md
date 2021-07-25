@@ -21,5 +21,6 @@ Unfortunately, I don't get around to open sourcing a huge amount so ignore my po
 - My bot, Cicada AIO
 - Reverse engineering client side JavaScript protections
 - Go networking and APIs
+- A number of other assorted private projects
 
 You can contact me at my Twitter, Email, or Discord (umasi#3301)
