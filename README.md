@@ -1,6 +1,6 @@
 # Hi there, Welcome to my Profile 👋
 
-My name is William. I'm a 17 year old developer based in NYC/CHI.
+My name is William. I'm an 18 year old developer based in NYC/CHI.
 
 I specialize in automation technologies, systems design, reverse engineering, and networking.
 
@@ -23,4 +23,4 @@ Unfortunately, I don't get around to open sourcing a huge amount so ignore my po
 - Go networking and APIs
 - Assorted other private projects
 
-You can contact me at my Twitter, Email, or Discord (umasi#3301)
+You can contact me at my Email or Discord (umasi#3301)
