@@ -1,6 +1,6 @@
 # Hi there, Welcome to my Profile 👋
 
-My name is William. I'm a 19 year old developer based in NYC/CHI.
+My name is William. I'm a 19 year old developer based in NYC/CHI, currently double majoring in physics and math at the University of Chicago.
 
 I specialize in automation technologies, offensive security, reverse engineering, and networking.
 
@@ -20,4 +20,8 @@ Also writing on https://nullpt.rs these days.
 - Wrote and scaled anti anti-bot APIs to handle thousands of requests a second
 - Lots of Go networking, specifically related to http 1.1 and http 2.0
 
-You can contact me at my Email or Discord (umasi#3301)
+## Contact info:
+Email: williamtom@uchicago.edu
+Twitter: @umasiii
+Mastodon: umasi@ioc.exchange
+Discord: umasi#3301
