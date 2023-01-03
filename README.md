@@ -6,7 +6,7 @@ I specialize in automation technologies, offensive security, reverse engineering
 
 There's not a whole lot on my github at the current moment, but I plan on releasing a lot of open source work in the future, as well as open sourcing a few of my previous projects.
 
-Also writing on https://nullpt.rs these days.
+My website is dead because I forgot to pay the heroku bill, but I'm also writing on https://nullpt.rs these days.
 
 ## What I'm currently working on
 - Open source reverse engineering repositories
