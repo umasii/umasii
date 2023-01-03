@@ -22,6 +22,9 @@ Also writing on https://nullpt.rs these days.
 
 ## Contact info:
 Email: williamtom@uchicago.edu
+
 Twitter: @umasiii
+
 Mastodon: umasi@ioc.exchange
+
 Discord: umasi#3301
